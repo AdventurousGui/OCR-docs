@@ -15,7 +15,7 @@ Para abrir a interface de **Configuração de OCR** de um documento, clique em <
 * escolher os **formatos de** **ficheiros de resultados**
 * obter resultados com **maior qualidade**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 A qualquer momento pode clicar em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> para guardar as alterações feitas, ou em <img src="../.gitbook/assets/image (44).png" alt="" data-size="line">  para guardar e sair.

@@ -18,18 +18,18 @@ layout:
 
 # Editar os Resultados
 
-Para abrir a interface de **Edição de Resultados** de um documento, clique em <kbd>**⋮**</kbd> ou use o **botão direito do rato** para abrir o menu, e selecione <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">
+Para abrir a interface de **Edição de Resultados** de um documento, clique em <kbd>**⋮**</kbd> ou use o **botão direito do rato** para abrir o menu, e selecione <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">
 
 O texto obtido em cada página é apresentado à direita, para comparação com a página original à esquerda.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 A qualquer momento pode clicar em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> para guardar as alterações feitas e retomar o trabalho mais tarde.
 {% endhint %}
 
 {% hint style="success" %}
-Quando os resultados forem aceitáveis, clique em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> para recriar os resultados usando o novo texto.
+Quando os resultados forem aceitáveis, clique em <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> para recriar os resultados usando o novo texto.
 {% endhint %}
 
 {% hint style="info" %}
@@ -40,7 +40,7 @@ Pode gerar novos tipos de resultados sem precisar de repetir o OCR selecionando 
 
 ## Identificar erros
 
-Para **identicar possíveis erros de OCR**, clique em <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">
+Para **identicar possíveis erros de OCR**, clique em <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line">
 
 Cada palavra no texto à direita será colorida de acordo com o grau de confiança com que ela foi obtida:
 
@@ -50,7 +50,7 @@ Cada palavra no texto à direita será colorida de acordo com o grau de confian�
 
 Para **ver onde foi identificada uma palavra**, coloque o rato sobre a palavra no texto.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -62,15 +62,15 @@ Para **ver onde foi identificada uma palavra**, coloque o rato sobre a palavra n
 
 As palavras surgirão numa caixa de texto para edição.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Pressione <kbd>Enter</kbd> ou clique fora da caixa para confirmar
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ As palavras surgirão numa caixa de texto para edição.
 {% endstep %}
 
 {% step %}
-#### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
+#### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line">
 {% endstep %}
 {% endstepper %}
 
@@ -108,6 +108,6 @@ Se desejar **ajustar as quebras de linha** que serão consideradas nos resultado
 {% endstep %}
 
 {% step %}
-#### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
+#### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line">
 {% endstep %}
 {% endstepper %}
