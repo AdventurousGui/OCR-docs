@@ -1,8 +1,8 @@
 # Objetivos
 
-O **serviço de OCR (Reconhecimento Ótico de Caracteres)** permite extrair o conteúdo textual de imagens de documentos impressos.
+O **serviço de OCR (Reconhecimento Ótico de Caracteres)** permite extrair o texto de digitalizações de documentos.
 
-A plataforma online está atualmente acessível em [https://iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) e tem como objetivo disponibilizar um serviço de OCR:
+A aplicação _web_ está atualmente acessível em [https://iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) e tem como objetivo disponibilizar um serviço de OCR:
 
 * **anónimo** (sem registo de utilizador);
 * de uso **expedito e intuitivo**;
@@ -12,7 +12,7 @@ A plataforma online está atualmente acessível em [https://iris.sysresearch.org
 
 ***
 
-A plataforma _web_ do serviço pode ser utilizada de duas formas:
+A aplicação ser utilizada de duas formas:
 
 * **Espaço público** – acessível a todos os visitantes da página, para OCR de documentos sem requisitos de confidencialidade.
 * **Espaços privados** – acessíveis através de um _link_ único, para documentos sensíveis.

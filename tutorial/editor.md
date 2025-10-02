@@ -18,11 +18,11 @@ layout:
 
 # Editar os Resultados
 
-Para abrir a interface de **Edição de Resultados** de um documento, clique em <kbd>**⋮**</kbd> ou use o **botão direito do rato** para abrir o menu, e selecione <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
+Para abrir a interface de **Edição de Resultados** de um documento, clique em <kbd>**⋮**</kbd> ou use o **botão direito do rato** para abrir o menu, e selecione <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">
 
 O texto obtido em cada página é apresentado à direita, para comparação com a página original à esquerda.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 A qualquer momento pode clicar em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> para guardar as alterações feitas e retomar o trabalho mais tarde.
@@ -58,7 +58,7 @@ Para **ver onde foi identificada uma palavra**, coloque o rato sobre a palavra n
 
 {% stepper %}
 {% step %}
-### Selecione uma ou mais palavras numa linha
+#### Selecione uma ou mais palavras numa linha
 
 As palavras surgirão numa caixa de texto para edição.
 
@@ -68,19 +68,17 @@ As palavras surgirão numa caixa de texto para edição.
 {% endstep %}
 
 {% step %}
-### Pressione <kbd>Enter</kbd> ou clique fora da caixa para confirmar
+#### Pressione <kbd>Enter</kbd> ou clique fora da caixa para confirmar
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Repita para aplicar as correções desejadas
-
-
+#### Repita para aplicar as correções desejadas
 {% endstep %}
 
 {% step %}
-### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
+#### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 {% endstep %}
 {% endstepper %}
 
@@ -92,24 +90,24 @@ Se desejar **ajustar as quebras de linha** que serão consideradas nos resultado
 
 {% stepper %}
 {% step %}
-### Clique em <img src="../.gitbook/assets/image (14).png" alt="" data-size="line">
+#### Clique em <img src="../.gitbook/assets/image (14).png" alt="" data-size="line">
 {% endstep %}
 
 {% step %}
-### Clique nos botões <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> para unir uma linha à seguinte
+#### Clique nos botões <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> para unir uma linha à seguinte
 {% endstep %}
 
 {% step %}
-### Passe o rato sobre as palavras e clique nos botões <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> para adicionar quebras de linha
+#### Passe o rato sobre as palavras e clique nos botões <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> para adicionar quebras de linha
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Feche a ferramenta clicando em <img src="../.gitbook/assets/image (18).png" alt="" data-size="line">
+#### Feche a ferramenta clicando em <img src="../.gitbook/assets/image (18).png" alt="" data-size="line">
 {% endstep %}
 
 {% step %}
-### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
+#### Guarde as alterações clicando em <img src="../.gitbook/assets/image (43).png" alt="" data-size="line"> ou volte a gerar os ficheiros de resultados clicando em <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 {% endstep %}
 {% endstepper %}

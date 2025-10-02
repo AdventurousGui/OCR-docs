@@ -6,7 +6,7 @@ icon: file-magnifying-glass
 
 {% stepper %}
 {% step %}
-### Crie uma pasta
+#### Crie uma pasta
 
 Na página inicial, clique em <img src="../.gitbook/assets/image (45).png" alt="" data-size="line">**,** escolha um nome e confirme.
 
@@ -16,11 +16,11 @@ No espaço público, os documentos devem ser adicionados a uma pasta.
 {% endstep %}
 
 {% step %}
-### Entre na nova pasta
+#### Entre na nova pasta
 {% endstep %}
 
 {% step %}
-### Carregue o documento
+#### Carregue o documento
 
 Clique em <img src="../.gitbook/assets/image (46).png" alt="" data-size="line">, escolha o ficheiro pretendido e confirme.
 
@@ -30,11 +30,11 @@ Para documentos com muitas páginas, o carregamento e preparação poderá demor
 {% endstep %}
 
 {% step %}
-### Opcionalmente, [defina as configurações](configurar-ocr.md) e [segmente o documento](segmentar-o-documento.md)
+#### Opcionalmente, [defina as configurações](configurar-ocr.md) e [segmente o documento](segmentar-o-documento.md)
 {% endstep %}
 
 {% step %}
-### Envie o pedido de OCR
+#### Envie o pedido de OCR
 
 Clique em <kbd>**⋮**</kbd> ou use o **botão direito do rato** para abrir o menu, e selecione <img src="../.gitbook/assets/image (23).png" alt="" data-size="line">
 
@@ -44,7 +44,7 @@ Pode acompanhar o estado do processo na coluna **Informação.**
 {% endstep %}
 
 {% step %}
-### Descarregue os resultados
+#### Descarregue os resultados
 
 * Após a conclusão do processo, clique no documento para ver a **lista de ficheiros de resultados**.
 * Clique no nome do tipo de resultado pretendido para o descarregar.

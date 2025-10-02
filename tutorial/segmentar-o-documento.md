@@ -31,7 +31,7 @@ Num documento já segmentado, a opção do menu é alterada para: <img src="../.
 
 {% stepper %}
 {% step %}
-### Clique na imagem e arraste para formar um retângulo
+#### Clique na imagem e arraste para formar um retângulo
 
 A caixa do segmento será sobreposta à imagem e adicionada à lista.
 
@@ -39,19 +39,17 @@ A caixa do segmento será sobreposta à imagem e adicionada à lista.
 {% endstep %}
 
 {% step %}
-### Ajuste e redimensione o segmento arrastando os quatro cantos
+#### Ajuste e redimensione o segmento arrastando os quatro cantos
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Repita os passos anteriores para as áreas desejadas
-
-
+#### Repita os passos anteriores para as áreas desejadas
 {% endstep %}
 
 {% step %}
-### Termine clicando em <img src="../.gitbook/assets/image (44).png" alt="" data-size="line">
+#### Termine clicando em <img src="../.gitbook/assets/image (44).png" alt="" data-size="line">
 {% endstep %}
 {% endstepper %}
 
@@ -69,11 +67,11 @@ Para **obter as imagens** da página durante o OCR:
 
 {% stepper %}
 {% step %}
-### Selecione a área desejada, como descrito [anteriormente](segmentar-o-documento.md#definir-areas-na-pagina)
+#### Selecione a área desejada, como descrito [anteriormente](segmentar-o-documento.md#definir-areas-na-pagina)
 {% endstep %}
 
 {% step %}
-### Na lista à direita, mude o interruptor do segmento para <img src="../.gitbook/assets/image (21).png" alt="" data-size="line">
+#### Na lista à direita, mude o interruptor do segmento para <img src="../.gitbook/assets/image (21).png" alt="" data-size="line">
 {% endstep %}
 {% endstepper %}
 
