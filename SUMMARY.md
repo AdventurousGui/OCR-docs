@@ -5,7 +5,7 @@
 
 ## Sobre o Serviço <a href="#sobre" id="sobre"></a>
 
-* [Objetivos](sobre/objetivos.md)
+* [Sobre o Serviço](sobre/sobre-o-servico.md)
 * [Ficheiros Suportados](sobre/ficheiros-suportados.md)
 * [Resultados Disponíveis](sobre/resultados-disponiveis.md)
 

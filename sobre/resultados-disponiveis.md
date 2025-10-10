@@ -1,12 +1,11 @@
 ---
+hidden: true
 icon: file-arrow-down
 ---
 
 # Resultados Disponíveis
 
 Para cada documento, é possível obter um ou mais ficheiros de resultados, nos seguintes formatos:
-
-
 
 * Ficheiro de texto
 * Ficheiro de texto com separadores de página

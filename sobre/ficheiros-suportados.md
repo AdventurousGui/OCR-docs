@@ -1,12 +1,11 @@
 ---
+hidden: true
 icon: file-check
 ---
 
 # Ficheiros Suportados
 
 Atualmente, o serviço permite processar documentos digitalizados nos seguintes formatos:
-
-
 
 * PDF
 * JPEG
