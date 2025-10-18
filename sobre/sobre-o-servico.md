@@ -1,3 +1,7 @@
+---
+icon: square-info
+---
+
 # Sobre o Serviço
 
 ## Objetivos

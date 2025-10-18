@@ -2,6 +2,7 @@
 
 * [Manual de Utilizador](README.md)
   * [Site do Serviço OCR](https://iris.sysresearch.org/ocr/)
+  * [Source Code](https://github.com/stjiris/OCR)
 
 ## Sobre o Serviço <a href="#sobre" id="sobre"></a>
 
